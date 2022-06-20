@@ -1,0 +1,2339 @@
+[
+    {
+        "dashboard_name": "foottraffic_scene_parcel_popularity_last_24_hours",
+        "dashboard_json": [
+            {
+                "time": 1653110100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653111000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653111900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653112800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653113700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653114600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653115500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653116400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653117300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653118200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653119100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653120000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653120900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653121800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653122700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653123600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653124500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653125400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653126300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653127200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653128100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653129000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653129900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653130800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653131700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653132600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653133500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653134400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653135300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653136200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653137100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653138000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653138900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653139800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653140700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653141600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653142500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653143400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653144300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653145200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653146100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653147000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653147900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653148800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653149700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653150600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653151500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653152400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653153300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653154200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653155100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653156000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653156900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653157800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653158700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653159600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653160500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653161400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653162300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653163200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653164100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653165000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653165900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653166800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653167700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653168600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653169500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653170400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653171300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653172200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653173100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653174000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653174900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653175800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653176700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653177600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653178500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653179400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653180300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653181200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653182100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653183000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653183900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653184800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653185700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653186600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653187500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653188400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653189300,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653190200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653191100,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653192000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653192900,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653193800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653194700,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653195600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653196500,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            }
+        ]
+    },
+    {
+        "dashboard_name": "foottraffic_scene_parcel_popularity_last_48_hours",
+        "dashboard_json": [
+            {
+                "time": 1653022800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653024600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653026400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653028200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653030000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653031800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653033600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653035400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653037200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653039000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653040800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653042600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653044400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653046200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653048000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653049800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653051600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653053400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653055200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653057000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653058800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653060600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653062400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653064200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653066000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653067800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653069600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653071400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653073200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653075000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653076800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653078600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653080400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653082200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653084000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653085800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653087600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653089400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653091200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653093000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653094800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653096600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653098400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653100200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653102000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653103800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653105600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653107400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653109200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653111000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653112800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653114600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653116400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653118200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653120000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653121800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653123600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653125400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653127200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653129000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653130800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653132600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653134400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653136200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653138000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653139800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653141600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653143400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653145200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653147000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653148800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653150600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653152400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653154200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653156000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653157800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653159600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653161400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653163200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653165000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653166800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653168600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653170400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653172200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653174000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653175800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653177600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653179400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653181200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653183000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653184800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653186600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653188400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653190200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653192000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653193800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653195600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            }
+        ]
+    },
+    {
+        "dashboard_name": "foottraffic_scene_parcel_popularity_last_672_hours",
+        "dashboard_json": [
+            {
+                "time": 1650758400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1650801600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1650844800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1650888000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1650931200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1650974400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651017600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651060800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651104000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651147200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651190400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651233600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651276800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651320000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651363200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651406400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651449600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651492800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651536000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651579200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651622400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651665600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651708800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651752000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651795200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651838400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651881600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651924800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1651968000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652011200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652054400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652097600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652140800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652184000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652227200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652270400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652313600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652356800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652400000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652443200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652486400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652529600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652572800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652616000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652659200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652702400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652745600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652788800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652832000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652875200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652918400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652961600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653004800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653048000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653091200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653134400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653177600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            }
+        ]
+    },
+    {
+        "dashboard_name": "foottraffic_scene_parcel_popularity_last_168_hours",
+        "dashboard_json": [
+            {
+                "time": 1652587200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652594400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652601600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652608800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652616000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652623200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652630400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652637600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652644800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652652000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652659200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652666400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652673600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652680800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652724000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652731200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652738400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652745600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652752800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652760000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652767200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652774400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652781600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652788800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652796000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652803200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652810400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652817600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652824800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652832000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652839200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652846400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652853600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652860800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652868000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652875200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652882400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652889600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652896800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652904000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652911200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652918400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652925600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652932800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652940000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652947200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652954400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652961600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652968800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652976000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652983200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652990400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1652997600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653004800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653012000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653019200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653026400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653033600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653040800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653048000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653055200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653062400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653069600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653076800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653084000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653091200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653098400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653105600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653112800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653120000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653127200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653134400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653141600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653148800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653156000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653163200,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653170400,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653177600,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653184800,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            },
+            {
+                "time": 1653192000,
+                "perc_users": 0,
+                "user_count": 0,
+                "parcel_coord": "0,0",
+                "perc_total_users": 0
+            }
+        ]
+    }
+]

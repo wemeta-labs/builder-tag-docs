@@ -1,0 +1,42 @@
+{
+    "unique_visitor_counts": {
+        "builder_tag_player_stats_last_24_hours": 0,
+        "builder_tag_player_stats_last_672_hours": 4,
+        "builder_tag_player_stats_last_168_hours": 3,
+        "builder_tag_player_stats_last_48_hours": 3
+    },
+    "line_chart": {
+        "builder_tag_total_active_idle_last_48_hours": [
+            {
+                "time": 1648110600,
+                "totalUserCount": 3
+            }
+        ],
+        "builder_tag_total_active_idle_last_168_hours": [
+            {
+                "time": 1648108800,
+                "totalUserCount": 3
+            }
+        ],
+        "builder_tag_total_active_idle_last_24_hours": [
+            {
+                "time": 1648110600,
+                "totalUserCount": 3
+            },
+            {
+                "time": 1648111500,
+                "totalUserCount": 1
+            }
+        ],
+        "builder_tag_total_active_idle_last_672_hours": [
+            {
+                "time": 1648080000,
+                "totalUserCount": 3
+            },
+            {
+                "time": 1650024000,
+                "totalUserCount": 1
+            }
+        ]
+    }
+}

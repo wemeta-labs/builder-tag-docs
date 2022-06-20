@@ -1,0 +1,404 @@
+[
+    {
+        "dashboard_name": "builder_tag_player_stats_last_672_hours",
+       "dashboard_json": {
+            "custom_bodies": {},
+           "default_bodies": {
+                "urn:decentraland:off-chain:base-avatars:BaseMale": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:BaseFemale": {
+                    "players": 5,
+                   "perc_players": 83.33
+                }
+            },
+           "custom_wearables": {
+                "urn:decentraland:matic:collections-v2:0xe96f28217b7014855ab516351f57bf921913cc15:0": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:matic:collections-v2:0xfdac3c4ffccb6e05d3e9a9d69ec95edeb6e8c844:14": {
+                    "players": 1,
+                   "perc_players": 16.67
+                }
+            },
+           "default_wearables": {
+                "urn:decentraland:off-chain:base-avatars:kilt": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:eyes_08": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_jeans": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:mouth_05": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:bun_shoes": {
+                    "players": 2,
+                   "perc_players": 33.33
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyes_00": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyes_10": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_sweater": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:hair_punk": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:curly_hair": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_mouth_00": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:eyebrows_00": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:hair_undere": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:classic_shoes": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_00": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_02": {
+                    "players": 2,
+                   "perc_players": 33.33
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_04": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_white_shirt": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:punk_piercing": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:roller_outfit": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:standard_hair": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:baggy_pullover": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:casual_hair_01": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_country_pants": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:ruby_red_loafer": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:pink_gem_earring": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:black_sun_glasses": {
+                    "players": 2,
+                   "perc_players": 33.33
+                },
+               "urn:decentraland:off-chain:base-avatars:hair_stylish_hair": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:comfy_sport_sandals": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:sport_colored_shoes": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_red_elegant_jacket": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_stripe_white_pants": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:green_feather_earring": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:distressed_black_Jeans": {
+                    "players": 1,
+                   "perc_players": 16.67
+                },
+               "urn:decentraland:off-chain:base-avatars:f_short_colored_leggins": {
+                    "players": 1,
+                   "perc_players": 16.67
+                }
+            },
+           "custom_wearables_player_count": 1,
+           "custom_wearables_players_perc": 16.67,
+           "default_wearables_player_count": 5,
+           "default_wearables_players_perc": 83.33
+        }
+    },
+   {
+        "dashboard_name": "builder_tag_player_stats_last_168_hours",
+       "dashboard_json": {
+            "custom_bodies": {},
+           "default_bodies": {
+                "urn:decentraland:off-chain:base-avatars:BaseFemale": {
+                    "players": 4,
+                   "perc_players": 100.0
+                }
+            },
+           "custom_wearables": {},
+           "default_wearables": {
+                "urn:decentraland:off-chain:base-avatars:f_jeans": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:bun_shoes": {
+                    "players": 2,
+                   "perc_players": 50.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyes_00": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyes_10": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_sweater": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:curly_hair": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_mouth_00": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:hair_undere": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_00": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_02": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_04": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:roller_outfit": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:standard_hair": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:baggy_pullover": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_country_pants": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:ruby_red_loafer": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:pink_gem_earring": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:black_sun_glasses": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:hair_stylish_hair": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:sport_colored_shoes": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_red_elegant_jacket": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_stripe_white_pants": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:green_feather_earring": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_short_colored_leggins": {
+                    "players": 1,
+                   "perc_players": 25.0
+                }
+            },
+           "custom_wearables_player_count": 0,
+           "custom_wearables_players_perc": 0.0,
+           "default_wearables_player_count": 4,
+           "default_wearables_players_perc": 100.0
+        }
+    },
+   {
+        "dashboard_name": "builder_tag_player_stats_last_48_hours",
+       "dashboard_json": {
+            "custom_bodies": {},
+           "default_bodies": {
+                "urn:decentraland:off-chain:base-avatars:BaseFemale": {
+                    "players": 4,
+                   "perc_players": 100.0
+                }
+            },
+           "custom_wearables": {},
+           "default_wearables": {
+                "urn:decentraland:off-chain:base-avatars:f_jeans": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:bun_shoes": {
+                    "players": 2,
+                   "perc_players": 50.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyes_00": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyes_10": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_sweater": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:curly_hair": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_mouth_00": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:hair_undere": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_00": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_02": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_eyebrows_04": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:roller_outfit": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:standard_hair": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:baggy_pullover": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_country_pants": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:ruby_red_loafer": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:pink_gem_earring": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:black_sun_glasses": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:hair_stylish_hair": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:sport_colored_shoes": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_red_elegant_jacket": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_stripe_white_pants": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:green_feather_earring": {
+                    "players": 1,
+                   "perc_players": 25.0
+                },
+               "urn:decentraland:off-chain:base-avatars:f_short_colored_leggins": {
+                    "players": 1,
+                   "perc_players": 25.0
+                }
+            },
+           "custom_wearables_player_count": 0,
+           "custom_wearables_players_perc": 0.0,
+           "default_wearables_player_count": 4,
+           "default_wearables_players_perc": 100.0
+        }
+    }
+]
